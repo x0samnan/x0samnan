@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Solidity, React**
 
-- 📫 How to reach me **samnansiddique@yandex.com**
+- 📫 Reach me at **samnansiddique@yandex.com**
 
 - ⚡ Fun fact **I am a C.Sec Enthusiast**
 
