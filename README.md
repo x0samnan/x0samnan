@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/x0samnan" target="blank"><img src="https://img.shields.io/twitter/follow/x0samnan?logo=twitter&style=for-the-badge" alt="x0samnan" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Bot**
+- 🔭 I’m currently working on **React Weather App**
 
 - 🌱 I’m currently learning **Web3.0**
 
