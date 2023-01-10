@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/samnantwt" target="blank"><img src="https://img.shields.io/twitter/follow/samnantwt?logo=twitter&style=for-the-badge" alt="samnantwt" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 CrowdFund App**
+- 🔭 I’m currently working on **AI Help App**
 
 - 🌱 I’m currently learning **Web3.0**
 
