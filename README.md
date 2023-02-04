@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.sanity.io/images/kp6c0mke/production/12efc3af477912b1fdaf6bb7c0c546214c5896c1-480x360.gif)
+![MasterHead](https://giphy.com/embed/26tn33aiTi1jkl6H6)
 <h1 align="center">Hi 👋, I'm Samnan!</h1>
 <h3 align="center">Coffee | Anime | Dev</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
