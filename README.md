@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/85efa6a08bc612a683ef359ded87aa87528ed6cf2e13b2c2879a9ca08315af1f/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f616a74686531702e6a7067)
 <h1 align="center">Hi 👋, I'm Samnan!</h1>
-<h3 align="center">Coffee | Anime | Dev</h3>
+<h3 align="center">Web Development | Software Engineering | Coffee | Anime</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x0samnan&label=Profile%20views&color=0e75b6&style=flat" alt="x0samnan" /> </p>
 
