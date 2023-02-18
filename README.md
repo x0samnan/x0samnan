@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/samnantwt" target="blank"><img src="https://img.shields.io/twitter/follow/samnantwt?logo=twitter&style=for-the-badge" alt="samnantwt" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio2.0**
+- 🔭 I’m currently working on **OPEN SOURCE CONTIBUTIONS**
 
 - 🌱 I’m currently learning **Web3.0**
 
-- 💬 Ask me about **Networking, ReactJs**
+- 💬 Ask me about **MERN STACK, INFOSEC, CRYPTOGRAPHY and BLOCKCHAIN**
 
 - 📫 Reach me at **samnansiddique@yandex.com**
 
