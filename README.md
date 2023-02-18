@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **OPEN SOURCE CONTIBUTIONS**
 
-- 🌱 I’m currently learning **Web3.0**
+- 🌱 I’m currently learning **WEB3.0**
 
 - 💬 Ask me about **MERN STACK, INFOSEC, CRYPTOGRAPHY and BLOCKCHAIN**
 
 - 📫 Reach me at **samnansiddique@yandex.com**
 
-- ⚡ Fun fact **I am a C.Sec Enthusiast**
+- ⚡ Fun fact **I am a C.SEC Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
