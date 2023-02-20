@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x0samnan&label=Profile%20views&color=0e75b6&style=flat" alt="x0samnan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samnantwt" target="blank"><img src="https://img.shields.io/twitter/follow/samnantwt?logo=twitter&style=for-the-badge" alt="samnantwt" /></a> </p>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65gLJGey4u4KFFqoC5fzFJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 - 🔭 I’m currently working on **OPEN SOURCE CONTIBUTIONS**
 
 - 🌱 I’m currently learning **WEB3.0**
