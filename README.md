@@ -1,12 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/85efa6a08bc612a683ef359ded87aa87528ed6cf2e13b2c2879a9ca08315af1f/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f616a74686531702e6a7067)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65gLJGey4u4KFFqoC5fzFJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <h1 align="center">Hi 👋, I'm Samnan!</h1>
 <h3 align="center">Web Development | Software Engineering | Iced-Americano | Web Novels</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150da0adfbaa4148376ed6f4dc3893ab49b800c45&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x0samnan&label=Profile%20views&color=0e75b6&style=flat" alt="x0samnan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samnantwt" target="blank"><img src="https://img.shields.io/twitter/follow/samnantwt?logo=twitter&style=for-the-badge" alt="samnantwt" /></a> </p>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65gLJGey4u4KFFqoC5fzFJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 - 🔭 I’m currently working on **OPEN SOURCE CONTIBUTIONS**
 
 - 🌱 I’m currently learning **WEB3.0**
