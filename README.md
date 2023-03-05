@@ -37,6 +37,6 @@
 <br/>
 <p align="center">
     <a href="https://github.com/x0samnan/github-readme-streak-stats">
-        <img alt="Samnan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cleverhare&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Samnan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=x0samnan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
