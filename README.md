@@ -41,5 +41,7 @@
 </p>
 <br />
 
-
+## Contribution Graph
+<p align="center">
 ![snake gif](https://github.com/x0samnan/x0samnan/blob/output/github-contribution-grid-snake.svg)
+</p>
