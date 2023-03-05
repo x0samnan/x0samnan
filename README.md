@@ -39,3 +39,5 @@
         <img alt="Samnan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=x0samnan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br />
+![Snake animation](https://github.com/x0samnan/x0samnan/blob/output/github-contribution-grid-snake.svg)
