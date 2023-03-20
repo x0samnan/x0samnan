@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **OPEN SOURCE CONTIBUTIONS**
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **APPWRITE**
 
 - 💬 Ask me about **MERN STACK, INFOSEC, CRYPTOGRAPHY and BLOCKCHAIN**
 
