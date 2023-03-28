@@ -40,6 +40,13 @@
 </p>
 <br />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=x0samnan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=x0samnan&&style=flat-square" align="center" />
+</div>  
+</br>
+
 ## Contribution Graph
 
 ![snake gif](https://github.com/x0samnan/x0samnan/blob/output/github-contribution-grid-snake.svg)
