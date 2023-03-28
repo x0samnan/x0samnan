@@ -41,7 +41,7 @@
 <br />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=x0samnan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=x0samnan&theme=radical&no-frame=true&no-bg=false&margin-w=6)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=x0samnan&&style=flat-square" align="center" />
 </div>  
