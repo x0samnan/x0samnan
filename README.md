@@ -18,12 +18,12 @@
 
 <div align="left">
   
-- 🏢 Full Stack Developer at **BeamLab Co**
+- 🏢 Full Stack Developer at **Everlabs Global**
 - 🔐 Specializing in **Web Security** and **Blockchain Development**
 - 🌱 Currently mastering **Redux Toolkit** and **Advanced Security Techniques**
 - 💡 Open Source Enthusiast and Security Researcher
 - 🎯 CTF Player and Security Puzzle Solver
-- 📧 Reach out: **samnan@revupagency.tech**
+- 📧 Reach out: **samnan@everlabsglobal.com**
 
 </div>
 
