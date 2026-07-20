@@ -70,18 +70,6 @@ At **Everlabs Global**, we design and ship AI agent systems for local service bu
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x0samnan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x0samnan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
